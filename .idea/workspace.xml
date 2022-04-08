@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="971b9472-4602-4a79-a6de-5585a6123e75" name="Changes" comment="게임젬 페이지 추가" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/routes/index.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="258m5aaro9NiJpsN6zztXr1HhbE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ftred_dev08\WebstormProjects\zempie_webserver_dev" />
+      <recent name="C:\Users\ftred_dev08\WebstormProjects\zempie_webserver_dev\backend\public" />
+      <recent name="C:\Users\ftred_dev08\WebstormProjects\zempie_webserver_dev\backend\public\images" />
+      <recent name="C:\Users\ftred_dev08\WebstormProjects\zempie_webserver_dev\backend\public\javascripts" />
+      <recent name="C:\Users\ftred_dev08\WebstormProjects\zempie_webserver_dev\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ftred_dev08\WebstormProjects\zempie_webserver_dev\public" />
+      <recent name="C:\Users\ftred_dev08\WebstormProjects\zempie_webserver_dev" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="971b9472-4602-4a79-a6de-5585a6123e75" name="Changes" comment="" />
+      <created>1644916906717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644916906717</updated>
+      <workItem from="1644916908205" duration="5923000" />
+      <workItem from="1644976644966" duration="9841000" />
+      <workItem from="1645176749753" duration="594000" />
+      <workItem from="1645682254381" duration="1012000" />
+      <workItem from="1645686544058" duration="2387000" />
+      <workItem from="1646896818930" duration="4592000" />
+      <workItem from="1647220847765" duration="1360000" />
+      <workItem from="1647417909680" duration="10251000" />
+      <workItem from="1648736276233" duration="933000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1644929623171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644929623171</updated>
+    </task>
+    <task id="LOCAL-00002" summary="public-dev file">
+      <created>1644996875786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644996875786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="추천 포스팅 업로드">
+      <created>1645088003935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645088003935</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0217 테스트 서버 업로드">
+      <created>1645089502600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645089502600</updated>
+    </task>
+    <task id="LOCAL-00005" summary="0218 실서버">
+      <created>1645162999164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645162999164</updated>
+    </task>
+    <task id="LOCAL-00006" summary="0218 테스트서버">
+      <created>1645163733391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645163733391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="0218 실서버">
+      <created>1645164617196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645164617196</updated>
+    </task>
+    <task id="LOCAL-00008" summary="0218 실서버_2">
+      <created>1645166058806</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645166058806</updated>
+    </task>
+    <task id="LOCAL-00009" summary="viewport 수정">
+      <created>1645682458339</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645682458339</updated>
+    </task>
+    <task id="LOCAL-00010" summary="dev update">
+      <created>1646900067845</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900067845</updated>
+    </task>
+    <task id="LOCAL-00011" summary="주소 수정">
+      <created>1646901058520</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646901058520</updated>
+    </task>
+    <task id="LOCAL-00012" summary="seo update">
+      <created>1646901376998</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646901376998</updated>
+    </task>
+    <task id="LOCAL-00013" summary="seo update">
+      <created>1646901477129</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646901477129</updated>
+    </task>
+    <task id="LOCAL-00014" summary="revert">
+      <created>1646901667837</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646901667837</updated>
+    </task>
+    <task id="LOCAL-00015" summary="revert">
+      <created>1646901803475</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1646901803475</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1646902465186</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1646902465186</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1646903493732</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1646903493732</updated>
+    </task>
+    <task id="LOCAL-00018" summary="game page like test dev">
+      <created>1648039341820</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1648039341820</updated>
+    </task>
+    <task id="LOCAL-00019" summary="port 변경">
+      <created>1648039521800</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1648039521800</updated>
+    </task>
+    <task id="LOCAL-00020" summary="게임 경로 수정">
+      <created>1648085866563</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1648085866563</updated>
+    </task>
+    <task id="LOCAL-00021" summary="게임 경로 수정">
+      <created>1648087416704</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1648087416704</updated>
+    </task>
+    <task id="LOCAL-00022" summary="게임 경로 수정">
+      <created>1648093106372</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1648093106372</updated>
+    </task>
+    <task id="LOCAL-00023" summary="store 변경">
+      <created>1648093652199</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1648093652199</updated>
+    </task>
+    <task id="LOCAL-00024" summary="런처 수정">
+      <created>1648094029152</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1648094029152</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add vue gtag">
+      <created>1648552481816</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1648552481816</updated>
+    </task>
+    <task id="LOCAL-00026" summary="로그인 수정">
+      <created>1648630223119</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1648630223119</updated>
+    </task>
+    <task id="LOCAL-00027" summary="로그인 수정">
+      <created>1648630570083</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1648630570083</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="public-dev file" />
+    <MESSAGE value="추천 포스팅 업로드" />
+    <MESSAGE value="0217 테스트 서버 업로드" />
+    <MESSAGE value="0218 테스트서버" />
+    <MESSAGE value="0218 실서버" />
+    <MESSAGE value="0218 실서버_2" />
+    <MESSAGE value="viewport 수정" />
+    <MESSAGE value="dev update" />
+    <MESSAGE value="주소 수정" />
+    <MESSAGE value="seo update" />
+    <MESSAGE value="revert" />
+    <MESSAGE value="update" />
+    <MESSAGE value="game page like test dev" />
+    <MESSAGE value="port 변경" />
+    <MESSAGE value="게임 경로 수정" />
+    <MESSAGE value="store 변경" />
+    <MESSAGE value="런처 수정" />
+    <MESSAGE value="add vue gtag" />
+    <MESSAGE value="로그인 수정" />
+    <MESSAGE value="게임젬 페이지 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="게임젬 페이지 추가" />
+  </component>
+</project>
