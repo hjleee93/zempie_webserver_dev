@@ -1,0 +1,2 @@
+google.com, pub-2187650629390403, DIRECT, f08c47fec0942fa0
+teads.tv, 23346, DIRECT, 15a9c44f6d26cbe1

@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: grapeshot
 Disallow: /profile
 Disallow: /channel/*/editing
 Disallow: /*/login
@@ -9,3 +9,5 @@ Disallow: /*/dashboard
 Disallow: /*/projectList
 
 Sitemap: https://zempie.com/sitemap.xml
+
+
